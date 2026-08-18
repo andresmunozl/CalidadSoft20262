@@ -2,3 +2,9 @@ nada puede malir sal
 Jefferson Munoz
 agg algo
 No renuncies a tus sueños, sigue durmiendo
+
+1. git pull origin main
+2. git add .
+3. git commit -m "mensaje"
+4. git pull origin main
+5. git push origin main
