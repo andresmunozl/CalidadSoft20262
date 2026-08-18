@@ -1,6 +1,11 @@
 Había una vez...
+Un ingeniero con ganas de aprender
 Un niño  se cayo de la cama y
 Un ingeniero 
 y vio estrellas 
+<<<<<<< HEAD
 
 y volo por los cielos
+=======
+y un dia soño que hacia mucho dinero con sus inventos
+>>>>>>> fba90ca0e05b3a6e73bf3b4626eb679b5874e90d
