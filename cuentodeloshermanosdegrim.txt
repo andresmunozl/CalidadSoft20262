@@ -16,6 +16,7 @@ Un ingeniero
 y vio estrellas 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 
@@ -30,3 +31,8 @@ y un dia soño que hacia mucho dinero con sus inventos
 y un dia soño que hacia mucho dinero con sus inventos
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
+=======
+y volo por los cielos
+y un dia soño que hacia mucho dinero con sus inventos
+
+>>>>>>> 93cf0fd583fdfa797dc70b5398c9c4871046b909
