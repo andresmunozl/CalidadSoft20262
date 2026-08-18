@@ -1,9 +1,4 @@
 Había una vez...
-<<<<<<< HEAD
-<<<<<<< HEAD
-Había una vez un pequeño zorro que se sentía muy solo en la colina. Un día, un búho sabio se acercó y le regaló una pequeña piedra brillante.
-=======
-=======
 
 un chico llamado ivan que se creia romeo...
 
@@ -14,16 +9,9 @@ Un ingeniero con ganas de aprender
 Un niño  se cayo de la cama y
 Un ingeniero 
 y vio estrellas 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
 y volo por los cielos
-=======
->>>>>>> d597a29dec6305ddb0d97dd47ee9d440ccece2f1
-=======
+
 
 y volo por los cielos
 >>>>>>> 741ed3b31ee90c88695d4a46d3919a941c25d964
@@ -31,8 +19,7 @@ y un dia soño que hacia mucho dinero con sus inventos
 y un dia soño que hacia mucho dinero con sus inventos
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
-=======
+
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
 
->>>>>>> 93cf0fd583fdfa797dc70b5398c9c4871046b909
