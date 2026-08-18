@@ -7,5 +7,12 @@ llamado ivan
 
 =======
 y vio estrellas 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+y volo por los cielos
+=======
+>>>>>>> d597a29dec6305ddb0d97dd47ee9d440ccece2f1
 y un dia soño que hacia mucho dinero con sus inventos
 >>>>>>> fba90ca0e05b3a6e73bf3b4626eb679b5874e90d
