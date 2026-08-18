@@ -1,4 +1,5 @@
 Había una vez...
+un estudiante de ingenieria de software llamado Pepito Perez
 Un ingeniero con ganas de aprender
 Un niño  se cayo de la cama y
 Un ingeniero 
@@ -8,11 +9,15 @@ llamado ivan
 =======
 y vio estrellas 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 
 y volo por los cielos
 =======
 >>>>>>> d597a29dec6305ddb0d97dd47ee9d440ccece2f1
+=======
+>>>>>>> cef1fbb5dc9ef058e8a66f4113cede29224f8376
 y un dia soño que hacia mucho dinero con sus inventos
->>>>>>> fba90ca0e05b3a6e73bf3b4626eb679b5874e90d
+y volo por los cielos
+y un dia soño que hacia mucho dinero con sus inventos
