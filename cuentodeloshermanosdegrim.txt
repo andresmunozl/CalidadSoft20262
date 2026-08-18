@@ -1,11 +1,20 @@
 Había una vez...
 <<<<<<< HEAD
+<<<<<<< HEAD
 Había una vez un pequeño zorro que se sentía muy solo en la colina. Un día, un búho sabio se acercó y le regaló una pequeña piedra brillante.
 =======
+=======
+
+un chico llamado ivan que se creia romeo...
+
+y de niño  se cayo de la cama y
+un estudiante de ingenieria de software llamado Pepito Perez
+>>>>>>> 741ed3b31ee90c88695d4a46d3919a941c25d964
 Un ingeniero con ganas de aprender
 Un niño  se cayo de la cama y
 Un ingeniero 
 y vio estrellas 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -13,5 +22,11 @@ y vio estrellas
 y volo por los cielos
 =======
 >>>>>>> d597a29dec6305ddb0d97dd47ee9d440ccece2f1
+=======
+
+y volo por los cielos
+>>>>>>> 741ed3b31ee90c88695d4a46d3919a941c25d964
 y un dia soño que hacia mucho dinero con sus inventos
->>>>>>> fba90ca0e05b3a6e73bf3b4626eb679b5874e90d
+y un dia soño que hacia mucho dinero con sus inventos
+y volo por los cielos
+y un dia soño que hacia mucho dinero con sus inventos
