@@ -1,2 +1,10 @@
 Había una vez...
+<<<<<<< HEAD
 Había una vez un pequeño zorro que se sentía muy solo en la colina. Un día, un búho sabio se acercó y le regaló una pequeña piedra brillante.
+=======
+Un ingeniero con ganas de aprender
+Un niño  se cayo de la cama y
+Un ingeniero 
+y vio estrellas 
+y un dia soño que hacia mucho dinero con sus inventos
+>>>>>>> fba90ca0e05b3a6e73bf3b4626eb679b5874e90d
