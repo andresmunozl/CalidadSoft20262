@@ -15,6 +15,12 @@ y un dia soño que hacia mucho dinero con sus inventos
 y un dia soño que hacia mucho dinero con sus inventos
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
+<<<<<<< HEAD
+Sin nadita que comer
+y mato a un dragon
+
+keke
+=======
 
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
