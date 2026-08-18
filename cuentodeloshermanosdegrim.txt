@@ -8,12 +8,6 @@ Un ingeniero con ganas de aprender
 Un niño  se cayo de la cama y
 Un ingeniero 
 y vio estrellas 
+y volo por los cielos
+y un dia soño que hacia mucho dinero con sus inventos
 
-y volo por los cielos
-y un dia soño que hacia mucho dinero con sus inventos
-<<<<<<< HEAD
-=======
-y un dia soño que hacia mucho dinero con sus inventos
-y volo por los cielos
-y un dia soño que hacia mucho dinero con sus inventos
->>>>>>> 27d2d3cab7bd594dc644b0ffdc4a4af62c333571
