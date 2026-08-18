@@ -23,11 +23,9 @@ y un dia soño que hacia mucho dinero con sus inventos
 y un dia soño que hacia mucho dinero con sus inventos
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
-<<<<<<< HEAD
 Sin nadita que comer
 
 holaaaaaaa
-=======
 
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
@@ -42,4 +40,3 @@ y un dia soño que hacia mucho dinero con sus inventos
 y un dia soño que hacia mucho dinero con sus inventos
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
->>>>>>> 82ccaa0bc89a3d7cf5ff23e8ef11ba21f7b119b9
