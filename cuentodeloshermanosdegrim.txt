@@ -36,6 +36,10 @@ y un dia soño que hacia mucho dinero con sus inventos
 y volo por los cielos
 y un dia soño que hacia mucho dinero con sus inventos
 
+<<<<<<< HEAD
+y fue el mejor ing, fin.
+=======
 Sin nadita que comer
 y mato a un dragon
 y fue el mejor ing, fin.
+>>>>>>> 95de5ce76127c97675c3ee5285256a91a3ae7aeb
